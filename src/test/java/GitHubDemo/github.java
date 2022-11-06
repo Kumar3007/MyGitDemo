@@ -8,6 +8,6 @@ public class github {
 	@Test
 	public void githubtest()
 	{
-		System.out.println("kumards");
+		System.out.println("kupmards");
 	}
 }
