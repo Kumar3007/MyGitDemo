@@ -9,5 +9,7 @@ public class github {
 	public void githubtest()
 	{
 		System.out.println("kupddsasdmards");
+		System.out.println("KRJ");
+		System.out.println("KRJ1");
 	}
 }
