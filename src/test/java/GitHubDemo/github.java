@@ -11,5 +11,8 @@ public class github {
 		System.out.println("kupddsasdmards");
 		System.out.println("KRJ");
 		System.out.println("KRJ1");
+		System.out.println("KRJ2");
+		System.out.println("KRJ3");
+		
 	}
 }
